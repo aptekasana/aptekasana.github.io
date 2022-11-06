@@ -4,6 +4,12 @@
     padding: 10px;
     }
 
+.fotka {
+    margin: auto;
+    width: 80%;
+    padding: auto;
+}
+
 .podpis{
     padding: 10px 20px;
     background-color: aqua;
